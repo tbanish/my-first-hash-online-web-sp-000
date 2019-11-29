@@ -1,8 +1,6 @@
 def my_hash
   your_hash = {"piano" => "musical instrument"}
 end
-  
-end
 
 
 def shipping_manifest
